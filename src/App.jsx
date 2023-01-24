@@ -7,8 +7,8 @@ function App() {
 
   return (
     <>
-    <h1>Portfolio principal</h1>
-    <p>Este es mi portfolio hecho en react</p>
+      <h1>Portfolio principal</h1>
+      <p>Acà va a estar todo mis proyectos</p>
     </>
   )
 }
