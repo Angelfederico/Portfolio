@@ -6,7 +6,10 @@ function App() {
   const [count, setCount] = useState(0)
 
   return (
-    <h1>Portfolio</h1>
+    <>
+    <h1>Portfolio principal</h1>
+    <p>Este es mi portfolio hecho en react</p>
+    </>
   )
 }
 
