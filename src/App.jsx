@@ -8,7 +8,7 @@ function App() {
   return (
     <>
       <h1>Portfolio principal</h1>
-<h2>Este es u</h2>
+      <h2>Este es una aplicacion con todo mis proyectos</h2>
     </>
   )
 }
